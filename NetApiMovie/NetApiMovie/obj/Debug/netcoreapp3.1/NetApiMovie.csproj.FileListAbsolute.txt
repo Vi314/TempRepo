@@ -1,0 +1,127 @@
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\NetApiMovie.exe
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\NetApiMovie.deps.json
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\NetApiMovie.runtimeconfig.json
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\NetApiMovie.runtimeconfig.dev.json
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\NetApiMovie.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\NetApiMovie.pdb
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\NetApiMovie.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\NetApiMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\NetApiMovie.AssemblyInfoInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\NetApiMovie.AssemblyInfo.cs
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\NetApiMovie.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\NetApiMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\staticwebassets\NetApiMovie.StaticWebAssets.Manifest.cache
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\staticwebassets\NetApiMovie.StaticWebAssets.Pack.cache
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.NetApiMovie.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.NetApiMovie.props
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.NetApiMovie.props
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.NetApiMovie.props
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\NetApiMovie.RazorTargetAssemblyInfo.cache
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\NetApiMovie.csproj.CopyComplete
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\NetApiMovie.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\NetApiMovie.pdb
+C:\Users\FatihGunalp\Desktop\YZL 3162\WebApi\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\NetApiMovie.genruntimeconfig.cache
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\NetApiMovie.exe
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\NetApiMovie.deps.json
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\NetApiMovie.runtimeconfig.json
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\NetApiMovie.runtimeconfig.dev.json
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\NetApiMovie.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\NetApiMovie.pdb
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\NetApiMovie.csproj.AssemblyReference.cache
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\NetApiMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\NetApiMovie.AssemblyInfoInputs.cache
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\NetApiMovie.AssemblyInfo.cs
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\NetApiMovie.csproj.CoreCompileInputs.cache
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\NetApiMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\staticwebassets\NetApiMovie.StaticWebAssets.Manifest.cache
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\staticwebassets\NetApiMovie.StaticWebAssets.xml
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\scopedcss\bundle\NetApiMovie.styles.css
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\NetApiMovie.RazorTargetAssemblyInfo.cache
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\NetApiMovie.csproj.CopyComplete
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\NetApiMovie.dll
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\NetApiMovie.pdb
+C:\Users\abdullah.arslan\Desktop\16.02\NetApiMovie\NetApiMovie\obj\Debug\netcoreapp3.1\NetApiMovie.genruntimeconfig.cache
